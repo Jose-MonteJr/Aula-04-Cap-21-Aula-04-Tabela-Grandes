@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+  width: 500px;
+  border-collapse: collapse;
+  position: relative;
+}
+th,
+td {
+  border: 1px solid #000000;
+  width: 500px;
+}
+
+caption {
+  font-weight: bold;
+  padding: 10px;
+  background-color: lightgray;
+}
+
+tfoot {
+  background-color: gray;
+  font-weight: bold;
+}
